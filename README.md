@@ -55,3 +55,7 @@ MORE IDEAS YAY:
   with recommendations for something both might like in common
   *probably need to steal Amazon/Netflix/whatever's recommendation model oops
 
+
+
+* (Is game theory a thing here or naw)
+
